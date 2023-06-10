@@ -1,0 +1,41 @@
+/* 2AFI.css */
+
+body {
+    background-color: rgba(176, 224, 230, 0.7);;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+}
+
+p {
+    color: #666666;
+    line-height: 1.5;
+}
+
+table, th, td {
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-color: gray;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+form
+
+{
+    margin-left:450px;
+    margin-top: 40px
+}
+
+.imagens
+
+{
+    width: 300px;
+    height: 300px;
+    margin-left: 450px;
+    padding: 15px;
+}
